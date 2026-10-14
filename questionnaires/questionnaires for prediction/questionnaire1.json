@@ -1,0 +1,55 @@
+{
+    "Fixmywebsite (test2-pas de conclusions)": {
+        "valeurs_moyennes": {
+            "QP": 1.8,
+            "QHS": 0.27,
+            "QHI": 1.27,
+            "ATT": 1.96
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": -1.5,
+                "complique/simple": 2.5,
+                "pas pratique/pratique": 2.5,
+                "fastidieux/efficace": 2,
+                "imprevisible/previsible": 2.5,
+                "confus/clair": 3,
+                "incontrolable/maitrisable": 2.5
+            },
+            "QHS": {
+                "conventionnel/original": 1,
+                "sans imagination/creatif": 1.5,
+                "prudent/audacieux": 0.5,
+                "conservateur/novateur": 1,
+                "ennuyeux/captivant": 1,
+                "peu exigeant/challenging": -2.5,
+                "commun/nouveau": 1
+            },
+            "QHI": {
+                "m'isole/me sociabilise": 0.5,
+                "amateur/professionel": 1,
+                "de mauvais gout/de bon gout": 2,
+                "bas de gamme/haut de gamme": 2,
+                "m'exclut/m'integre": 1,
+                "me depare des autres/me rapproche des autre": 1,
+                "non presentable/presentable": 2
+            },
+            "ATT": {
+                "deplaisant/plaisant": 2.5,
+                "laid/beau": 3,
+                "desagreable/agreable": 2.5,
+                "rebutant/attirant": 1.5,
+                "mauvais/bon": 2.5,
+                "repoussant/attrayant": 1.5,
+                "decourageant/motivant": 1.5
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 0.77,
+            "moyenne pragmatique": 1.8,
+            "statut": "oriente tache",
+            "intervalle confiance": null
+        },
+        "probleme": {}
+    }
+}

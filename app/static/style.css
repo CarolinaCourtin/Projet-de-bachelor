@@ -1,0 +1,125 @@
+h1 {
+    color: #08415c;
+    font-size: 50px;
+    text-align:center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    text-decoration-line: overline;
+    text-decoration-color: #cc2936;
+    position:relative;
+}
+body {
+    background-color:#EFE9F4;
+    font-family: Helvetica;
+
+}
+.h2_projet_bachelor {
+    color:#6B818C;
+    text-align:center;
+    margin-top: 5px;
+    font-size: 30px;
+    position: relative;
+}
+.p_text_intro {
+    font-size: 20px;
+    text-align:center;
+    margin-top:35px;
+}
+
+.body1 {
+
+    border-left: 5px solid #08415C; /* Bordure gauche */
+    border-right: 5px solid #08415C; /* Bordure droite */
+    padding:20px;
+}
+
+.btn-primary {
+    color:white;
+    background-color: #cc2936;
+    border-color: #08415c;
+
+}
+
+.btn-primary:hover {
+    color:white;
+    background-color: #08415c;
+    border-color: #08415c;
+}
+
+.demarrer {
+    margin-top:50px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.image1 {
+    margin-bottom:100px;
+}
+
+footer {
+    color:#6B818C;
+    font-weight: bold;
+}
+
+.p_text_files {
+    font-size: 20px;
+    border:2px solid #6B818C;
+    border-radius:10px;
+    text-align:center;
+    padding:10px;
+    max-width: 700px;
+    background-color: #C2C2C2;
+    margin-bottom:50px;
+}
+
+.label1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.form-control {
+    border-color: #996862;
+    margin-bottom:30px;
+}
+
+.h2_files {
+    text-align:center;
+    font-weight: bold;
+    margin-bottom:20px;
+}
+
+.label2 {
+    font-weight: bolder;
+}
+
+.h3_files {
+    text-align:center;
+    font-size: 25px;
+    color: #996862;
+}
+
+.soumettre {
+    margin-top:10px;
+    margin-bottom:50px;
+}
+
+.h2_res {
+    font-weight:bold;
+    color: #cc2936;
+    margin-bottom:40px;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.h3_res {
+    font-size:25px;
+    font-weight:bold;
+}
+
+.p_res {
+    font-size:20px;
+    color: #cc2936;
+    text-decoration: underline;
+}

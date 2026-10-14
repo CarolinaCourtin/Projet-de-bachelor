@@ -1,0 +1,56 @@
+,
+    "Mediaserver (test1)": {
+        "valeurs_moyennes": {
+            "QP": 1.87,
+            "QHS": 0.29,
+            "QHI": 1.14,
+            "ATT": 1.78
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": 0.8,
+                "complique/simple": 2.25,
+                "pas pratique/pratique": 2.1,
+                "fastidieux/efficace": 2.15,
+                "imprevisible/previsible": 1.6,
+                "confus/clair": 1.9,
+                "incontrolable/maitrisable": 1.8
+            },
+            "QHS": {
+                "conventionnel/original": 0.75,
+                "sans imagination/creatif": 0.8,
+                "prudent/audacieux": 0.3,
+                "conservateur/novateur": 0.15,
+                "ennuyeux/captivant": 0.75,
+                "peu exigeant/challenging": -0.15,
+                "commun/nouveau": -0.6
+            },
+            "QHI": {
+                "m'isole/me sociabilise": -0.25,
+                "amateur/professionel": 1.4,
+                "de mauvais gout/de bon gout": 1.9,
+                "bas de gamme/haut de gamme": 1.3,
+                "m'exclut/m'integre": 2.0,
+                "me depare des autres/me rapproche des autre": 0.25,
+                "non presentable/presentable": 2.4
+            },
+            "ATT": {
+                "deplaisant/plaisant": 1.95,
+                "laid/beau": 1.5,
+                "desagreable/agreable": 2.1,
+                "rebutant/attirant": 1.7,
+                "mauvais/bon": 1.75,
+                "repoussant/attrayant": 1.7,
+                "decourageant/motivant": 1.25
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 0.715,
+            "moyenne pragmatique": 1.87,
+            "statut": 6,
+            "intervalle confiance": null
+        },
+        "probleme": {
+            "Esthetisme": "Taille des boutons, Taille des textes, Combler les vides"
+        }
+    }

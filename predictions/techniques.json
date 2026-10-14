@@ -1,0 +1,96 @@
+{
+    "Clarte": {
+        "Lecture Web" : [
+            "https://www.wimersion.com/blog/la-lecture-sur-le-web-et-lux/",
+            "images/lectureF.png",
+            "images/lectureZ.png"
+        ],
+        "Dispositions types" : [
+            "https://osamaabdelnaser.medium.com/learn-more-about-common-website-layouts-e685986f8bbe",
+            "images/card_disposition.png",
+            "images/magazine_disposition.png",
+            "images/single_page_disposition.png"
+        ],
+        "Grille" : [
+            "https://www.lahautesociete.com/blog/la-grille-en-webdesign/",
+            "images/grille12.png"
+        ],
+        "CRAP" : [
+            "https://vwo.com/blog/crap-design-principles/",
+            "images/CRAP.png"
+        ],
+        "Colour Contrast Check" : [
+            "https://snook.ca//technical/colour_contrast/colour.html#fg=33FF33,bg=333333"
+        ],
+        "Principe de Gestalt" : [
+            "https://www.beryldesign.fr/post/la-theorie-de-gestalt-en-ux-design-principes-applications-et-limites#:~:text=Il%20consiste%20%C3%A0%20regrouper%20des,t%C3%A9l%C3%A9phone%20indique%20visuellement%20leur%20relation."
+        ],
+        "Icones" : [
+            "https://www.flaticon.com/fr/"
+        ]
+    },
+    "Intuitivite": {
+        "Item standards" : [
+            "https://www.orbitmedia.com/blog/web-design-standards/",
+            "images/item_standards.png",
+            "images/item_standards2.png"
+        ],
+        "Microinteractions" : [
+            "https://www.usabilis.com/micro-interaction-ux/"
+        ]
+    },
+    "Creativite": {
+        "Dispositions types" : [
+            "https://osamaabdelnaser.medium.com/learn-more-about-common-website-layouts-e685986f8bbe",
+            "images/card_disposition.png",
+            "images/magazine_disposition.png",
+            "images/single_page_disposition.png"
+        ],
+        "Adobe Colors CC" : [
+            "https://color.adobe.com/fr/"
+        ]
+    },
+    "Manque d informations": {
+        "Lecture Web" : [
+            "https://www.wimersion.com/blog/la-lecture-sur-le-web-et-lux/",
+            "images/lectureF.png",
+            "images/lectureZ.png"
+        ]
+    },
+    "Professionnalisme": {
+        "Wheel of emotions" : [
+            "images/wheel_emotions.png"
+        ],
+        "Adobe Colors CC" : [
+            "https://color.adobe.com/fr/"
+        ],
+        "Fonts" : [
+            "https://fonts.google.com/"
+        ],
+        "Microinteractions" : [
+            "https://www.usabilis.com/micro-interaction-ux/"
+        ]
+    },
+    "Esthetisme": {
+        "Grille" : [
+            "https://www.lahautesociete.com/blog/la-grille-en-webdesign/",
+            "images/grille12.png"
+        ],
+        "CRAP" : [
+            "https://vwo.com/blog/crap-design-principles/",
+            "images/CRAP.png"
+        ],
+        "Wheel of emotions" : [
+            "images/wheel_emotions.png"
+        ],
+        "Adobe Colors CC" : [
+            "https://color.adobe.com/fr/"
+        ],
+        "Colour Contrast Check" : [
+            "https://snook.ca//technical/colour_contrast/colour.html#fg=33FF33,bg=333333"
+        ],
+        "Fonts" : [
+            "https://fonts.google.com/"
+        ]
+    }
+}

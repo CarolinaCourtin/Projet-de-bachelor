@@ -1,0 +1,37 @@
+{
+    "Clarte": [
+        "Augmenter le contraste des couleurs",
+        "Adopter une (meilleure) nomenclature des rubriques",
+        "Adapter la taille des textes",
+        "Ajouter des logos pour les boutons",
+        "Adopter une semantique standardisee"
+    ],
+    "Intuitivite": [
+        "Augmenter la taille des boutons",
+        "Adopter des libelles plus explicites",
+        "Ajouter des call to action",
+        "Ajouter des microinteractions",
+        "Mettre une couleur plus vive pour les boutons",
+        "Ajouter des rubriques specialisees"
+    ],
+    "Creativite": [
+        "Adopter une mise en page differente, plus originale"
+    ],
+    "Manque d informations": [
+        "Ajouter des details",
+        "Ajouter des sections supplementaires",
+        "Ajouter un tutoriel",
+        "Ajouter un guidage"
+    ],
+    "Professionnalisme": [
+        "Ajouter des microinteractions",
+        "Adopter des couleurs moins saturees",
+        "Adopter des couleurs plus similaires"
+    ],
+    "Esthetisme": [
+        "Choisir des couleurs plus homogenes",
+        "Corriger les inconsistances dans les items de la page",
+        "Adapter la mise en page",
+        "Choisir des couleurs differentes"
+    ]
+}

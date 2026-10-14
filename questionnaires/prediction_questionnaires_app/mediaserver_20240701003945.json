@@ -1,0 +1,42 @@
+{
+    "mediaserver_20240701003945": {
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": 1.0,
+                "complique/simple": 2.0,
+                "pas pratique/pratique": 2.5,
+                "fastidieux/efficace": 2.5,
+                "imprevisible/previsible": 2.0,
+                "confus/clair": 2.0,
+                "incontrolable/maitrisable": 2.5
+            },
+            "QHS": {
+                "conventionnel/original": 0.5,
+                "sans imagination/creatif": 1.0,
+                "prudent/audacieux": 0.5,
+                "conservateur/novateur": 1.0,
+                "ennuyeux/captivant": 1.0,
+                "peu exigeant/challenging": 0.0,
+                "commun/nouveau": 0.5
+            },
+            "QHI": {
+                "m'isole/me sociabilise": 2.5,
+                "amateur/professionel": 2.0,
+                "de mauvais gout/de bon gout": 2.5,
+                "bas de gamme/haut de gamme": 2.0,
+                "m'exclut/m'integre": 2.0,
+                "me depare des autres/me rapproche des autre": 1.5,
+                "non presentable/presentable": 2.0
+            },
+            "ATT": {
+                "deplaisant/plaisant": 2.5,
+                "laid/beau": 2.5,
+                "desagreable/agreable": 3.0,
+                "rebutant/attirant": 2.0,
+                "mauvais/bon": 2.0,
+                "repoussant/attrayant": 2.0,
+                "decourageant/motivant": 3.0
+            }
+        }
+    }
+}

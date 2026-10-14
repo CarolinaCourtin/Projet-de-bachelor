@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="../static/style.css">
+    <title>Fichiers</title>
+</head>
+<body>
+
+    <div class="container body1">
+
+         <h1>AttrakDiff Analyzer</h1>
+
+        <div class="row justify-content-md-center">
+            <p class="p_text_files">Avant de commencer la prédiction, veuillez remplir le formulaire <br>
+                ci-dessous avec vos résultats d'Attrakdiff</p>
+
+            <div class="col-6">
+
+                 <form method="POST" action="/files">
+
+                    <label for="questionnaire_name" class="form-label label1">Nom de l'interface testée</label>
+                    <input class="form-control form1" id="questionnaire_name" name="questionnaire_name" required>
+
+                    <h2 class="h2_files">Valeurs paires de mots</h2>
+
+                    <h3 class="h3_files">Qualité pragmatique</h3>
+
+                    <label for="value_technique_humain" class="form-label label2">Technique - Humain</label>
+                    <input class="form-control form1" id="value_technique_humain" name="value_technique_humain" required>
+
+                    <label for="value_complique_simple" class="form-label label2">Compliqué - Simple</label>
+                    <input class="form-control form1" id="value_complique_simple" name="value_complique_simple" required>
+
+                    <label for="value_pas_pratique_pratique" class="form-label label2">Pas pratique - Pratique</label>
+                    <input class="form-control form1" id="value_pas_pratique_pratique" name="value_pas_pratique_pratique" required>
+
+                    <label for="value_fastidieux_efficace" class="form-label label2">Fastidieux - Efficace</label>
+                    <input class="form-control form1" id="value_fastidieux_efficace" name="value_fastidieux_efficace" required>
+
+                    <label for="value_imprevisible_previsible" class="form-label label2">Imprévisible - Prévisible</label>
+                    <input class="form-control form1" id="value_imprevisible_previsible" name="value_imprevisible_previsible" required>
+
+                    <label for="value_confus_clair" class="form-label label2">Confus - Clair</label>
+                    <input class="form-control form1" id="value_confus_clair" name="value_confus_clair" required>
+
+                    <label for="value_incontrolable_maitrisable" class="form-label label2">Incontrôlable - Maîtrisable</label>
+                    <input class="form-control form1" id="value_incontrolable_maitrisable" name="value_incontrolable_maitrisable" required>
+
+                    <h3 class="h3_files">Qualité hédonique de stimulation</h3>
+
+                    <label for="value_conventionnel_original" class="form-label label2">Conventionnel - Original</label>
+                    <input class="form-control form1" id="value_conventionnel_original" name="value_conventionnel_original" required>
+
+                    <label for="value_sans_imagination_creatif" class="form-label label2">Sans imagination - Créatif</label>
+                    <input class="form-control form1" id="value_sans_imagination_creatif" name="value_sans_imagination_creatif" required>
+
+                    <label for="value_prudent_audacieux" class="form-label label2">Prudent - Audacieux</label>
+                    <input class="form-control form1" id="value_prudent_audacieux" name="value_prudent_audacieux" required>
+
+                    <label for="value_conservateur_novateur" class="form-label label2">Conservateur - Novateur</label>
+                    <input class="form-control form1" id="value_conservateur_novateur" name="value_conservateur_novateur" required>
+
+                    <label for="value_ennuyeux_captivant" class="form-label label2">Ennuyeux - Captivant</label>
+                    <input class="form-control form1" id="value_ennuyeux_captivant" name="value_ennuyeux_captivant" required>
+
+                    <label for="value_peu_exigeant_challenging" class="form-label label2">Peu exigeant - Challenging</label>
+                    <input class="form-control form1" id="value_peu_exigeant_challenging" name="value_peu_exigeant_challenging" required>
+
+                    <label for="value_commun_nouveau" class="form-label label2">Commun - Nouveau</label>
+                    <input class="form-control form1" id="value_commun_nouveau" name="value_commun_nouveau" required>
+
+                    <h3 class="h3_files">Qualité hédonique d'identification</h3>
+
+                    <label for="value_m_isole_me_sociabilise" class="form-label label2">M'isole - Me sociabilise</label>
+                    <input class="form-control form1" id="value_m_isole_me_sociabilise" name="value_m_isole_me_sociabilise" required>
+
+                    <label for="value_amateur_professionnel" class="form-label label2">Amateur - Professionnel</label>
+                    <input class="form-control form1" id="value_amateur_professionnel" name="value_amateur_professionnel" required>
+
+                    <label for="value_de_mauvais_gout_de_bon_gout" class="form-label label2">De mauvais goût - De bon goût</label>
+                    <input class="form-control form1" id="value_de_mauvais_gout_de_bon_gout" name="value_de_mauvais_gout_de_bon_gout" required>
+
+                    <label for="value_bas_de_gamme_haut_de_gamme" class="form-label label2">Bas de gamme - Haut de gamme</label>
+                    <input class="form-control form1" id="value_bas_de_gamme_haut_de_gamme" name="value_bas_de_gamme_haut_de_gamme" required>
+
+                    <label for="value_m_exclut_m_integre" class="form-label label2">M'exclut - M'intègre</label>
+                    <input class="form-control form1" id="value_m_exclut_m_integre" name="value_m_exclut_m_integre" required>
+
+                    <label for="value_me_separe_des_autres_me_rapproche_des_autres" class="form-label label2">Me sépare des autres - Me rapproche des autres</label>
+                    <input class="form-control form1" id="value_me_separe_des_autres_me_rapproche_des_autres" name="value_me_separe_des_autres_me_rapproche_des_autres" required>
+
+                    <label for="value_non_presentable_presentable" class="form-label label2">Non présentable - Présentable</label>
+                    <input class="form-control form1" id="value_non_presentable_presentable" name="value_non_presentable_presentable" required>
+
+                    <h3 class="h3_files">Attractivité</h3>
+
+                    <label for="value_deplaisant_plaisant" class="form-label label2">Déplaisant - Plaisant</label>
+                    <input class="form-control form1" id="value_deplaisant_plaisant" name="value_deplaisant_plaisant" required>
+
+                    <label for="value_laid_beau" class="form-label label2">Laid - Beau</label>
+                    <input class="form-control form1" id="value_laid_beau" name="value_laid_beau" required>
+
+                    <label for="value_desagreable_agreable" class="form-label label2">Désagréable - Agréable</label>
+                    <input class="form-control form1" id="value_desagreable_agreable" name="value_desagreable_agreable" required>
+
+                    <label for="value_rebutant_attirant" class="form-label label2">Rebutant - Attirant</label>
+                    <input class="form-control form1" id="value_rebutant_attirant" name="value_rebutant_attirant" required>
+
+                    <label for="value_mauvais_bon" class="form-label label2">Mauvais - Bon</label>
+                    <input class="form-control form1" id="value_mauvais_bon" name="value_mauvais_bon" required>
+
+                    <label for="value_repoussant_attrayant" class="form-label label2">Repoussant - Attrayant</label>
+                    <input class="form-control form1" id="value_repoussant_attrayant" name="value_repoussant_attrayant" required>
+
+                    <label for="value_decourageant_motivant" class="form-label label2">Décourageant - Motivant</label>
+                    <input class="form-control form1" id="value_decourageant_motivant" name="value_decourageant_motivant" required>
+
+                    <div class="container text-center mt-3">
+                        <button class="btn btn-primary soumettre" type="submit">Soumettre</button>
+                    </div>
+                </form>
+
+            </div>
+
+        </div>
+
+        <div class="container text-center">
+            <footer>Carolina Courtin, Patrick Roth, Université de Genève, Centre Universitaire d'Informatique juin 2024</footer>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
+

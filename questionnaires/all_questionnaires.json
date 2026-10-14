@@ -1,0 +1,1192 @@
+{
+    "Fixmywebsite (test2-pas de conclusions)": {
+        "valeurs_moyennes": {
+            "QP": 1.8,
+            "QHS": 0.27,
+            "QHI": 1.27,
+            "ATT": 1.96
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": -1.5,
+                "complique/simple": 2.5,
+                "pas pratique/pratique": 2.5,
+                "fastidieux/efficace": 2,
+                "imprevisible/previsible": 2.5,
+                "confus/clair": 3,
+                "incontrolable/maitrisable": 2.5
+            },
+            "QHS": {
+                "conventionnel/original": 1,
+                "sans imagination/creatif": 1.5,
+                "prudent/audacieux": 0.5,
+                "conservateur/novateur": 1,
+                "ennuyeux/captivant": 1,
+                "peu exigeant/challenging": -2.5,
+                "commun/nouveau": 1
+            },
+            "QHI": {
+                "m'isole/me sociabilise": 0.5,
+                "amateur/professionel": 1,
+                "de mauvais gout/de bon gout": 2,
+                "bas de gamme/haut de gamme": 2,
+                "m'exclut/m'integre": 1,
+                "me depare des autres/me rapproche des autre": 1,
+                "non presentable/presentable": 2
+            },
+            "ATT": {
+                "deplaisant/plaisant": 2.5,
+                "laid/beau": 3,
+                "desagreable/agreable": 2.5,
+                "rebutant/attirant": 1.5,
+                "mauvais/bon": 2.5,
+                "repoussant/attrayant": 1.5,
+                "decourageant/motivant": 1.5
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 0.77,
+            "moyenne pragmatique": 1.8,
+            "statut": "oriente tache",
+            "intervalle confiance": null
+        },
+        "probleme": {}
+    },
+    "C+ (entrainement)": {
+        "valeurs_moyennes": {
+            "QP": 1.82,
+            "QHS": 0.94,
+            "QHI": 1.19,
+            "ATT": 2.54
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": 1.5,
+                "complique/simple": 2.8,
+                "pas pratique/pratique": 1.75,
+                "fastidieux/efficace": 2.5,
+                "imprevisible/previsible": 2.5,
+                "confus/clair": 1.85,
+                "incontrolable/maitrisable": 2.3
+            },
+            "QHS": {
+                "conventionnel/original": 0.75,
+                "sans imagination/creatif": 1.2,
+                "prudent/audacieux": 1.2,
+                "conservateur/novateur": 0.75,
+                "ennuyeux/captivant": 0.0,
+                "peu exigeant/challenging": 0.0,
+                "commun/nouveau": 1.9
+            },
+            "QHI": {
+                "m'isole/me sociabilise": 1.2,
+                "amateur/professionel": 1.8,
+                "de mauvais gout/de bon gout": 1.8,
+                "bas de gamme/haut de gamme": 0.1,
+                "m'exclut/m'integre": 0.7,
+                "me depare des autres/me rapproche des autre": 0.95,
+                "non presentable/presentable": 1.75
+            },
+            "ATT": {
+                "deplaisant/plaisant": 2.1,
+                "laid/beau": 2.5,
+                "desagreable/agreable": 2.25,
+                "rebutant/attirant": 3.0,
+                "mauvais/bon": 2.75,
+                "repoussant/attrayant": 3.0,
+                "decourageant/motivant": 1.9
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 1.065,
+            "moyenne pragmatique": 1.82,
+            "statut": "oriente tache",
+            "intervalle confiance": null
+        },
+        "probleme": {
+            "Clarte": "Couleurs contrastees",
+            "Intuitivite": "Taille des boutons, Libelle explicite, Call to action"
+        }
+    },
+    "Interface TPG (donnees incompletes)": {
+        "valeurs_moyennes": {
+            "QP": 1.9,
+            "QHS": 0.9,
+            "QHI": 1.55,
+            "ATT": 1.95
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": 2.1,
+                "complique/simple": 2.2,
+                "pas pratique/pratique": 2.1,
+                "fastidieux/efficace": 2.2,
+                "imprevisible/previsible": 1.3,
+                "confus/clair": 2.0,
+                "incontrolable/maitrisable": 2.25
+            },
+            "QHS": {
+                "conventionnel/original": 0.5,
+                "sans imagination/creatif": 1.9,
+                "prudent/audacieux": 0.9,
+                "conservateur/novateur": 0.85,
+                "ennuyeux/captivant": 1.25,
+                "peu exigeant/challenging": -0.1,
+                "commun/nouveau": 0.85
+            },
+            "QHI": {
+                "m'isole/me sociabilise": 0.85,
+                "amateur/professionel": 2.4,
+                "de mauvais gout/de bon gout": 2.6,
+                "bas de gamme/haut de gamme": 1.1,
+                "m'exclut/m'integre": 1.25,
+                "me depare des autres/me rapproche des autre": 0.5,
+                "non presentable/presentable": 2.2
+            },
+            "ATT": {
+                "deplaisant/plaisant": null,
+                "laid/beau": null,
+                "desagreable/agreable": null,
+                "rebutant/attirant": null,
+                "mauvais/bon": null,
+                "repoussant/attrayant": null,
+                "decourageant/motivant": null
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 1.225,
+            "moyenne pragmatique": 1.9,
+            "statut": "oriente tache",
+            "intervalle confiance": null
+        },
+        "probleme": {
+            "Transition ancien systeme": "Tutoriel"
+        }
+    },
+    "App motivation etudiants (test2)": {
+        "valeurs_moyennes": {
+            "QP": 2.45,
+            "QHS": 0.75,
+            "QHI": 2.1,
+            "ATT": 2.2
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": 2.0,
+                "complique/simple": 2.0,
+                "pas pratique/pratique": 2.5,
+                "fastidieux/efficace": 2.5,
+                "imprevisible/previsible": 2.0,
+                "confus/clair": 2.0,
+                "incontrolable/maitrisable": 2.5
+            },
+            "QHS": {
+                "conventionnel/original": 0.5,
+                "sans imagination/creatif": 1.0,
+                "prudent/audacieux": 0.5,
+                "conservateur/novateur": 1.0,
+                "ennuyeux/captivant": 1.0,
+                "peu exigeant/challenging": 0.0,
+                "commun/nouveau": 0.5
+            },
+            "QHI": {
+                "m'isole/me sociabilise": 2.5,
+                "amateur/professionel": 2.0,
+                "de mauvais gout/de bon gout": 2.5,
+                "bas de gamme/haut de gamme": 2.0,
+                "m'exclut/m'integre": 2.0,
+                "me depare des autres/me rapproche des autre": 1.5,
+                "non presentable/presentable": 2.0
+            },
+            "ATT": {
+                "deplaisant/plaisant": 2.5,
+                "laid/beau": 2.5,
+                "desagreable/agreable": 2.0,
+                "rebutant/attirant": 2.0,
+                "mauvais/bon": 2.0,
+                "repoussant/attrayant": 2.0,
+                "decourageant/motivant": 3.0
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 1.425,
+            "moyenne pragmatique": 2.45,
+            "statut": "oriente tache",
+            "intervalle confiance": null
+        },
+        "probleme": {}
+    },
+    "Interface CAD (donnees incompletes)": {
+        "valeurs_moyennes": {
+            "QP": 2.8,
+            "QHS": 1.75,
+            "QHI": 2.0125,
+            "ATT": 2.35
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": null,
+                "complique/simple": 2.9,
+                "pas pratique/pratique": 2.85,
+                "fastidieux/efficace": null,
+                "imprevisible/previsible": 2.8,
+                "confus/clair": 2.82,
+                "incontrolable/maitrisable": null
+            },
+            "QHS": {
+                "conventionnel/original": null,
+                "sans imagination/creatif": 2.3,
+                "prudent/audacieux": null,
+                "conservateur/novateur": null,
+                "ennuyeux/captivant": 0.9,
+                "peu exigeant/challenging": null,
+                "commun/nouveau": null
+            },
+            "QHI": {
+                "m'isole/me sociabilise": null,
+                "amateur/professionel": null,
+                "de mauvais gout/de bon gout": 2.5,
+                "bas de gamme/haut de gamme": 1.0,
+                "m'exclut/m'integre": null,
+                "me depare des autres/me rapproche des autre": null,
+                "non presentable/presentable": null
+            },
+            "ATT": {
+                "deplaisant/plaisant": null,
+                "laid/beau": 2.45,
+                "desagreable/agreable": null,
+                "rebutant/attirant": null,
+                "mauvais/bon": null,
+                "repoussant/attrayant": null,
+                "decourageant/motivant": null
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 1.5,
+            "moyenne pragmatique": 2.9,
+            "statut": "desire",
+            "intervalle confiance": null
+        },
+        "probleme": {
+            "Esthetisme": "",
+            "Plaisir d'utilisation": "",
+            "Clarte": "Titres descriptifs",
+            "Credibilite": "Temoignages utilisateurs, Sceaux de confiance",
+            "Simplicite": ""
+        }
+    },
+    "Site mobilite IN (test2-pas de conclusions)": {
+        "valeurs_moyennes": {
+            "QP": 1.8,
+            "QHS": 2.4,
+            "QHI": 2.2,
+            "ATT": 1.3
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": 1.0,
+                "complique/simple": 2.0,
+                "pas pratique/pratique": 1.0,
+                "fastidieux/efficace": 1.0,
+                "imprevisible/previsible": -1.0,
+                "confus/clair": 0.0,
+                "incontrolable/maitrisable": 1.0
+            },
+            "QHS": {
+                "conventionnel/original": 3.0,
+                "sans imagination/creatif": 0.0,
+                "prudent/audacieux": -2.0,
+                "conservateur/novateur": -1.0,
+                "ennuyeux/captivant": 1.0,
+                "peu exigeant/challenging": 2.0,
+                "commun/nouveau": 2.0
+            },
+            "QHI": {
+                "m'isole/me sociabilise": 0.0,
+                "amateur/professionel": 1.0,
+                "de mauvais gout/de bon gout": -3.0,
+                "bas de gamme/haut de gamme": 0.0,
+                "m'exclut/m'integre": 3.0,
+                "me depare des autres/me rapproche des autre": 3.0,
+                "non presentable/presentable": 2.0
+            },
+            "ATT": {
+                "deplaisant/plaisant": 1.0,
+                "laid/beau": 1.0,
+                "desagreable/agreable": 0.0,
+                "rebutant/attirant": 0.0,
+                "mauvais/bon": 1.0,
+                "repoussant/attrayant": 1.0,
+                "decourageant/motivant": 1.0
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 2.3,
+            "moyenne pragmatique": 1.8,
+            "statut": "desire",
+            "intervalle confiance": null
+        },
+        "probleme": {},
+        "conclusion": {}
+    },
+    "Planeur Leman Desktop (entrainement)": {
+        "valeurs_moyennes": {
+            "QP": 1.75,
+            "QHS": -0.9,
+            "QHI": 0.95,
+            "ATT": 1.7
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": 1.1,
+                "complique/simple": 2.75,
+                "pas pratique/pratique": 2.5,
+                "fastidieux/efficace": 0.1,
+                "imprevisible/previsible": 2.55,
+                "confus/clair": 0.5,
+                "incontrolable/maitrisable": 0.8
+            },
+            "QHS": {
+                "conventionnel/original": -0.4,
+                "sans imagination/creatif": -1.25,
+                "prudent/audacieux": 0.1,
+                "conservateur/novateur": -0.05,
+                "ennuyeux/captivant": -0.6,
+                "peu exigeant/challenging": -2.8,
+                "commun/nouveau": -0.25
+            },
+            "QHI": {
+                "m'isole/me sociabilise": -1.25,
+                "amateur/professionel": 2.25,
+                "de mauvais gout/de bon gout": 2.23,
+                "bas de gamme/haut de gamme": -0.6,
+                "m'exclut/m'integre": 0.25,
+                "me depare des autres/me rapproche des autre": 2.0,
+                "non presentable/presentable": 0.25
+            },
+            "ATT": {
+                "deplaisant/plaisant": 2.25,
+                "laid/beau": 0.26,
+                "desagreable/agreable": 2.26,
+                "rebutant/attirant": -0.1,
+                "mauvais/bon": 2.9,
+                "repoussant/attrayant": 0.25,
+                "decourageant/motivant": 2.25
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 0.025,
+            "moyenne pragmatique": 1.75,
+            "statut": "oriente tache",
+            "intervalle confiance": null
+        },
+        "probleme": {
+            "Intuitivite": "Ajout de microinteractions"
+        }
+    },
+    "Planeur Leman Smartphone (entrainement)": {
+        "valeurs_moyennes": {
+            "QP": 2.49,
+            "QHS": -0.21,
+            "QHI": 1.66,
+            "ATT": 2.27
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": 1.8,
+                "complique/simple": 2.75,
+                "pas pratique/pratique": 2.76,
+                "fastidieux/efficace": 2.76,
+                "imprevisible/previsible": 2.0,
+                "confus/clair": 2.9,
+                "incontrolable/maitrisable": 2.85
+            },
+            "QHS": {
+                "conventionnel/original": -0.45,
+                "sans imagination/creatif": 1.2,
+                "prudent/audacieux": -0.9,
+                "conservateur/novateur": -1.01,
+                "ennuyeux/captivant": 1.8,
+                "peu exigeant/challenging": -1.2,
+                "commun/nouveau": -0.5
+            },
+            "QHI": {
+                "m'isole/me sociabilise": 1.0,
+                "amateur/professionel": 1.1,
+                "de mauvais gout/de bon gout": 2.25,
+                "bas de gamme/haut de gamme": 2.2,
+                "m'exclut/m'integre": 2.85,
+                "me depare des autres/me rapproche des autre": 2.45,
+                "non presentable/presentable": 2.0
+            },
+            "ATT": {
+                "deplaisant/plaisant": 2.5,
+                "laid/beau": 2.0,
+                "desagreable/agreable": 2.25,
+                "rebutant/attirant": 2.2,
+                "mauvais/bon": 2.85,
+                "repoussant/attrayant": 2.45,
+                "decourageant/motivant": 2.0
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 1.9,
+            "moyenne pragmatique": 2.6,
+            "statut": "oriente tache",
+            "intervalle confiance": null
+        },
+        "probleme": {
+            "Social": "Photos clients, Texte explicatif contexte",
+            "Creativite": "Mise en page differente",
+            "Intuitivite": "Couleur boutons plus vive",
+            "Manque d'informations": "Details supplementaires, Sections supplementaires"
+        }
+    },
+    "Enseignement distance (entrainement)": {
+        "valeurs_moyennes": {
+            "QP": 0.26,
+            "QHS": 0.17,
+            "QHI": 0.41,
+            "ATT": 0.56
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": -0.9,
+                "complique/simple": 0.1,
+                "pas pratique/pratique": -0.1,
+                "fastidieux/efficace": 0.05,
+                "imprevisible/previsible": 0.75,
+                "confus/clair": 0.6,
+                "incontrolable/maitrisable": 1.1
+            },
+            "QHS": {
+                "conventionnel/original": 0.0,
+                "sans imagination/creatif": 0.95,
+                "prudent/audacieux": -0.4,
+                "conservateur/novateur": 0.1,
+                "ennuyeux/captivant": 0.3,
+                "peu exigeant/challenging": 0.0,
+                "commun/nouveau": 0.05
+            },
+            "QHI": {
+                "m'isole/me sociabilise": -0.65,
+                "amateur/professionel": 0.2,
+                "de mauvais gout/de bon gout": 1.2,
+                "bas de gamme/haut de gamme": 0.9,
+                "m'exclut/m'integre": -0.1,
+                "me depare des autres/me rapproche des autre": -0.1,
+                "non presentable/presentable": 1.5
+            },
+            "ATT": {
+                "deplaisant/plaisant": 0.6,
+                "laid/beau": 0.8,
+                "desagreable/agreable": 0.35,
+                "rebutant/attirant": 0.5,
+                "mauvais/bon": 0.5,
+                "repoussant/attrayant": 0.8,
+                "decourageant/motivant": 0.05
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 0.29,
+            "moyenne pragmatique": 0.26,
+            "statut": "neutre",
+            "intervalle confiance": null
+        },
+        "probleme": {
+            "Clarte": "Nomenclature des rubriques, Taille des textes",
+            "Intuitivite": "Taille des boutons"
+        }
+    },
+    "eLearning (entrainement)": {
+        "valeurs_moyennes": {
+            "QP": 1.24,
+            "QHS": 1.0,
+            "QHI": 0.95,
+            "ATT": 1.33
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": 1.0,
+                "complique/simple": 1.67,
+                "pas pratique/pratique": 1.67,
+                "fastidieux/efficace": 1.33,
+                "imprevisible/previsible": 0.33,
+                "confus/clair": 0.33,
+                "incontrolable/maitrisable": 2.33
+            },
+            "QHS": {
+                "conventionnel/original": 1.0,
+                "sans imagination/creatif": -0.67,
+                "prudent/audacieux": 0.67,
+                "conservateur/novateur": 1.33,
+                "ennuyeux/captivant": 1.33,
+                "peu exigeant/challenging": 0.67,
+                "commun/nouveau": 2.67
+            },
+            "QHI": {
+                "m'isole/me sociabilise": 0.67,
+                "amateur/professionel": -33.0,
+                "de mauvais gout/de bon gout": 1.33,
+                "bas de gamme/haut de gamme": 0.0,
+                "m'exclut/m'integre": 2.0,
+                "me depare des autres/me rapproche des autre": 1.67,
+                "non presentable/presentable": 1.33
+            },
+            "ATT": {
+                "deplaisant/plaisant": 0.67,
+                "laid/beau": 1.33,
+                "desagreable/agreable": 1.0,
+                "rebutant/attirant": 1.33,
+                "mauvais/bon": 2.33,
+                "repoussant/attrayant": 1.33,
+                "decourageant/motivant": 1.33
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 0.975,
+            "moyenne pragmatique": 1.24,
+            "statut": "oriente tache",
+            "intervalle confiance": null
+        },
+        "probleme": {
+            "Professionnalisme": "Ajout de microinteractions",
+            "Fluidite": "Moteur de recherche",
+            "Clarte": "Ajout logos boutons"
+        }
+    },
+    "Mobilite OUT (test1)": {
+        "valeurs_moyennes": {
+            "QP": 0.571,
+            "QHS": 0.455,
+            "QHI": 0.247,
+            "ATT": 0.545
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": -0.5,
+                "complique/simple": 1.1,
+                "pas pratique/pratique": 1.5,
+                "fastidieux/efficace": 0.4,
+                "imprevisible/previsible": 0.55,
+                "confus/clair": 0.75,
+                "incontrolable/maitrisable": 1
+            },
+            "QHS": {
+                "conventionnel/original": 1.1,
+                "sans imagination/creatif": 1.25,
+                "prudent/audacieux": 0.1,
+                "conservateur/novateur": 0.1,
+                "ennuyeux/captivant": 0.9,
+                "peu exigeant/challenging": -0.5,
+                "commun/nouveau": -0.25
+            },
+            "QHI": {
+                "m'isole/me sociabilise": 0.4,
+                "amateur/professionel": -0.9,
+                "de mauvais gout/de bon gout": 0.5,
+                "bas de gamme/haut de gamme": -0.25,
+                "m'exclut/m'integre": 1.25,
+                "me depare des autres/me rapproche des autre": -0.4,
+                "non presentable/presentable": 1.2
+            },
+            "ATT": {
+                "deplaisant/plaisant": 0.55,
+                "laid/beau": 0.5,
+                "desagreable/agreable": 0.2,
+                "rebutant/attirant": 0.95,
+                "mauvais/bon": 1,
+                "repoussant/attrayant": 0.4,
+                "decourageant/motivant": 0.4
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 0.351,
+            "moyenne pragmatique": 0.571,
+            "statut": "neutre",
+            "intervalle confiance": null
+        },
+        "probleme": {
+            "Professionnalisme": "Couleurs plus homogenes, Couleurs moins saturees, Couleurs plus similaires, Ajout de microinteractions"
+        }
+    },
+    "Portail projets etudiants CUI (test1)": {
+        "valeurs_moyennes": {
+            "QP": 1.75,
+            "QHS": 0.75,
+            "QHI": 1.75,
+            "ATT": 1.75
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": 0.25,
+                "complique/simple": 1.5,
+                "pas pratique/pratique": 2.25,
+                "fastidieux/efficace": 1.9,
+                "imprevisible/previsible": 1.9,
+                "confus/clair": 1.9,
+                "incontrolable/maitrisable": 2.1
+            },
+            "QHS": {
+                "conventionnel/original": 0.6,
+                "sans imagination/creatif": 1.75,
+                "prudent/audacieux": 0.8,
+                "conservateur/novateur": 1.3,
+                "ennuyeux/captivant": 1.5,
+                "peu exigeant/challenging": -0.1,
+                "commun/nouveau": 1.25
+            },
+            "QHI": {
+                "m'isole/me sociabilise": 1.5,
+                "amateur/professionel": 1.75,
+                "de mauvais gout/de bon gout": 1.6,
+                "bas de gamme/haut de gamme": 1.6,
+                "m'exclut/m'integre": 0.9,
+                "me depare des autres/me rapproche des autre": 2.2,
+                "non presentable/presentable": 2.2
+            },
+            "ATT": {
+                "deplaisant/plaisant": 1.35,
+                "laid/beau": 1.8,
+                "desagreable/agreable": 2.0,
+                "rebutant/attirant": 1.75,
+                "mauvais/bon": 2.25,
+                "repoussant/attrayant": 1.25,
+                "decourageant/motivant": 1.75
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 1.25,
+            "moyenne pragmatique": 1.75,
+            "statut": "desire",
+            "intervalle confiance": null
+        },
+        "probleme": {
+            "Clarte": "Couleurs plus contrastees",
+            "Intuitivite": "Libelles explicites, Ajout de rubriques specialisees",
+            "Professionnalisme": "Ajout de microinteractions"
+        }
+    },
+    "Virtual Exchange (test1)": {
+        "valeurs_moyennes": {
+            "QP": 2.12,
+            "QHS": 0.65,
+            "QHI": 1.51,
+            "ATT": 1.86
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": 1.3,
+                "complique/simple": 2.2,
+                "pas pratique/pratique": 1.9,
+                "fastidieux/efficace": 2.2,
+                "imprevisible/previsible": 2.4,
+                "confus/clair": 2.5,
+                "incontrolable/maitrisable": 2.6
+            },
+            "QHS": {
+                "conventionnel/original": -0.4,
+                "sans imagination/creatif": 1.4,
+                "prudent/audacieux": -0.2,
+                "conservateur/novateur": -0.6,
+                "ennuyeux/captivant": 0.9,
+                "peu exigeant/challenging": -0.6,
+                "commun/nouveau": -0.2
+            },
+            "QHI": {
+                "m'isole/me sociabilise": 0.6,
+                "amateur/professionel": 1.0,
+                "de mauvais gout/de bon gout": 2.1,
+                "bas de gamme/haut de gamme": 0.9,
+                "m'exclut/m'integre": 1.4,
+                "me depare des autres/me rapproche des autre": 1.4,
+                "non presentable/presentable": 2.2
+            },
+            "ATT": {
+                "deplaisant/plaisant": 2.0,
+                "laid/beau": 1.5,
+                "desagreable/agreable": 2.0,
+                "rebutant/attirant": 1.6,
+                "mauvais/bon": 2.4,
+                "repoussant/attrayant": 1.6,
+                "decourageant/motivant": 2.0
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 1.08,
+            "moyenne pragmatique": 2.12,
+            "statut": "desire",
+            "intervalle confiance": null
+        },
+        "probleme": {
+            "Creativite": "Mise en page differente"
+        }
+    },
+    "Mediaserver (test1)": {
+        "valeurs_moyennes": {
+            "QP": 1.87,
+            "QHS": 0.29,
+            "QHI": 1.14,
+            "ATT": 1.78
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": 0.8,
+                "complique/simple": 2.25,
+                "pas pratique/pratique": 2.1,
+                "fastidieux/efficace": 2.15,
+                "imprevisible/previsible": 1.6,
+                "confus/clair": 1.9,
+                "incontrolable/maitrisable": 1.8
+            },
+            "QHS": {
+                "conventionnel/original": 0.75,
+                "sans imagination/creatif": 0.8,
+                "prudent/audacieux": 0.3,
+                "conservateur/novateur": 0.15,
+                "ennuyeux/captivant": 0.75,
+                "peu exigeant/challenging": -0.15,
+                "commun/nouveau": -0.6
+            },
+            "QHI": {
+                "m'isole/me sociabilise": -0.25,
+                "amateur/professionel": 1.4,
+                "de mauvais gout/de bon gout": 1.9,
+                "bas de gamme/haut de gamme": 1.3,
+                "m'exclut/m'integre": 2.0,
+                "me depare des autres/me rapproche des autre": 0.25,
+                "non presentable/presentable": 2.4
+            },
+            "ATT": {
+                "deplaisant/plaisant": 1.95,
+                "laid/beau": 1.5,
+                "desagreable/agreable": 2.1,
+                "rebutant/attirant": 1.7,
+                "mauvais/bon": 1.75,
+                "repoussant/attrayant": 1.7,
+                "decourageant/motivant": 1.25
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 0.715,
+            "moyenne pragmatique": 1.87,
+            "statut": "oriente tache",
+            "intervalle confiance": null
+        },
+        "probleme": {
+            "Esthetisme": "Taille des boutons, Taille des textes, Combler les vides"
+        }
+    },
+    "Cours de pilates (entrainement)": {
+        "valeurs_moyennes": {
+            "QP": 2.0,
+            "QHS": 0.43,
+            "QHI": 1.93,
+            "ATT": 2.75
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": 0.0,
+                "complique/simple": 2.5,
+                "pas pratique/pratique": 2.5,
+                "fastidieux/efficace": 1.5,
+                "imprevisible/previsible": 2.0,
+                "confus/clair": 2.5,
+                "incontrolable/maitrisable": 3.0
+            },
+            "QHS": {
+                "conventionnel/original": 1.0,
+                "sans imagination/creatif": 1.5,
+                "prudent/audacieux": -0.5,
+                "conservateur/novateur": 0.0,
+                "ennuyeux/captivant": 1.5,
+                "peu exigeant/challenging": -1.0,
+                "commun/nouveau": 0.5
+            },
+            "QHI": {
+                "m'isole/me sociabilise": 2.0,
+                "amateur/professionel": 2.0,
+                "de mauvais gout/de bon gout": 2.0,
+                "bas de gamme/haut de gamme": 1.5,
+                "m'exclut/m'integre": 2.0,
+                "me depare des autres/me rapproche des autre": 2.0,
+                "non presentable/presentable": 2.0
+            },
+            "ATT": {
+                "deplaisant/plaisant": 2.5,
+                "laid/beau": 2.5,
+                "desagreable/agreable": 2.5,
+                "rebutant/attirant": 2.0,
+                "mauvais/bon": 3.0,
+                "repoussant/attrayant": 3.0,
+                "decourageant/motivant": 2.5
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 1.2,
+            "moyenne pragmatique": 2.0,
+            "statut": "desire",
+            "intervalle confiance": null
+        },
+        "probleme": {
+            "Intuitivite": "Taille des boutons, Ajout de microinteractions"
+        }
+    },
+    "Diner rouge": {
+        "valeurs_moyennes": {
+            "QP": 0.25,
+            "QHS": -0.5,
+            "QHI": 0.5,
+            "ATT": 0.0
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": null,
+                "complique/simple": null,
+                "pas pratique/pratique": null,
+                "fastidieux/efficace": null,
+                "imprevisible/previsible": null,
+                "confus/clair": null,
+                "incontrolable/maitrisable": null
+            },
+            "QHS": {
+                "conventionnel/original": null,
+                "sans imagination/creatif": null,
+                "prudent/audacieux": null,
+                "conservateur/novateur": null,
+                "ennuyeux/captivant": null,
+                "peu exigeant/challenging": null,
+                "commun/nouveau": null
+            },
+            "QHI": {
+                "m'isole/me sociabilise": null,
+                "amateur/professionel": null,
+                "de mauvais gout/de bon gout": null,
+                "bas de gamme/haut de gamme": null,
+                "m'exclut/m'integre": null,
+                "me depare des autres/me rapproche des autre": null,
+                "non presentable/presentable": null
+            },
+            "ATT": {
+                "deplaisant/plaisant": null,
+                "laid/beau": null,
+                "desagreable/agreable": null,
+                "rebutant/attirant": null,
+                "mauvais/bon": null,
+                "repoussant/attrayant": null,
+                "decourageant/motivant": null
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 0.0,
+            "moyenne pragmatique": 0.25,
+            "statut": "neutre",
+            "intervalle confiance": null
+        },
+        "valeurs_generales": {
+            "marge d'erreur": null,
+            "echantillon": null
+        },
+        "probleme": {
+            "Esthetisme": "Couleurs plus harmonieuses, Enlever couleurs trop dominantes, Ajouter du contraste",
+            "Manque d'informations": "Ajout d'un tutoriel",
+            "Clarte": "Barre d'outils nette, Ajout de logos"
+        }
+    },
+    "Augmented virtual TV": {
+        "valeurs_moyennes": {
+            "QP": -1.0,
+            "QHS": 0.0,
+            "QHI": -0.85,
+            "ATT": 0.4
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": -1.85,
+                "complique/simple": -1.1,
+                "pas pratique/pratique": -1.0,
+                "fastidieux/efficace": -1.0,
+                "imprevisible/previsible": -0.9,
+                "confus/clair": -0.9,
+                "incontrolable/maitrisable": 0.0
+            },
+            "QHS": {
+                "conventionnel/original": 0.1,
+                "sans imagination/creatif": 0.35,
+                "prudent/audacieux": -0.4,
+                "conservateur/novateur": 0.1,
+                "ennuyeux/captivant": -0.9,
+                "peu exigeant/challenging": -1.1,
+                "commun/nouveau": 1.1
+            },
+            "QHI": {
+                "m'isole/me sociabilise": -1.4,
+                "amateur/professionel": -0.7,
+                "de mauvais gout/de bon gout": 0.9,
+                "bas de gamme/haut de gamme": 1.0,
+                "m'exclut/m'integre": -0.1,
+                "me depare des autres/me rapproche des autre": -1.1,
+                "non presentable/presentable": 0.4
+            },
+            "ATT": {
+                "deplaisant/plaisant": -0.9,
+                "laid/beau": 1.0,
+                "desagreable/agreable": -0.9,
+                "rebutant/attirant": 0.55,
+                "mauvais/bon": 0.35,
+                "repoussant/attrayant": 0.25,
+                "decourageant/motivant": -0.35
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": -0.025,
+            "moyenne pragmatique": -0.18,
+            "statut": "neutre",
+            "intervalle confiance": null
+        },
+        "valeurs_generales": {
+            "marge d'erreur": null,
+            "echantillon": null
+        },
+        "probleme": {
+            "Esthetisme": "Corriger les inconsistances dans les objets, Mise en page",
+            "Manque d'informations": "Ajout d'un tutoriel, Guidage"
+        }
+    },
+    "SAFE P2P": {
+        "valeurs_moyennes": {
+            "QP": -0.5,
+            "QHS": -0.9,
+            "QHI": -0.95,
+            "ATT": -0.85
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": null,
+                "complique/simple": null,
+                "pas pratique/pratique": null,
+                "fastidieux/efficace": null,
+                "imprevisible/previsible": null,
+                "confus/clair": null,
+                "incontrolable/maitrisable": null
+            },
+            "QHS": {
+                "conventionnel/original": null,
+                "sans imagination/creatif": null,
+                "prudent/audacieux": null,
+                "conservateur/novateur": null,
+                "ennuyeux/captivant": null,
+                "peu exigeant/challenging": null,
+                "commun/nouveau": null
+            },
+            "QHI": {
+                "m'isole/me sociabilise": null,
+                "amateur/professionel": null,
+                "de mauvais gout/de bon gout": null,
+                "bas de gamme/haut de gamme": null,
+                "m'exclut/m'integre": null,
+                "me depare des autres/me rapproche des autre": null,
+                "non presentable/presentable": null
+            },
+            "ATT": {
+                "deplaisant/plaisant": null,
+                "laid/beau": null,
+                "desagreable/agreable": null,
+                "rebutant/attirant": null,
+                "mauvais/bon": null,
+                "repoussant/attrayant": null,
+                "decourageant/motivant": null
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": -0.925,
+            "moyenne pragmatique": -0.5,
+            "statut": "neutre",
+            "intervalle confiance": null
+        },
+        "valeurs_generales": {
+            "marge d'erreur": null,
+            "echantillon": null
+        },
+        "probleme": {
+            "Clarte": "Vignettes, Icones, Terminologie",
+            "Esthetisme": "Mise en page, Vues de donnees"
+        }
+    },
+    "Flexi Groups": {
+        "valeurs_moyennes": {
+            "QP": 1.1,
+            "QHS": 0.9,
+            "QHI": 1.2,
+            "ATT": 1.45
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": null,
+                "complique/simple": null,
+                "pas pratique/pratique": null,
+                "fastidieux/efficace": null,
+                "imprevisible/previsible": null,
+                "confus/clair": null,
+                "incontrolable/maitrisable": null
+            },
+            "QHS": {
+                "conventionnel/original": null,
+                "sans imagination/creatif": null,
+                "prudent/audacieux": null,
+                "conservateur/novateur": null,
+                "ennuyeux/captivant": null,
+                "peu exigeant/challenging": null,
+                "commun/nouveau": null
+            },
+            "QHI": {
+                "m'isole/me sociabilise": null,
+                "amateur/professionel": null,
+                "de mauvais gout/de bon gout": null,
+                "bas de gamme/haut de gamme": null,
+                "m'exclut/m'integre": null,
+                "me depare des autres/me rapproche des autre": null,
+                "non presentable/presentable": null
+            },
+            "ATT": {
+                "deplaisant/plaisant": null,
+                "laid/beau": null,
+                "desagreable/agreable": null,
+                "rebutant/attirant": null,
+                "mauvais/bon": null,
+                "repoussant/attrayant": null,
+                "decourageant/motivant": null
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 1.05,
+            "moyenne pragmatique": 1.1,
+            "statut": "desire",
+            "intervalle confiance": null
+        },
+        "valeurs_generales": {
+            "marge d'erreur": null,
+            "echantillon": null
+        },
+        "probleme": {
+            "Fluidite": "Accelerer les temps de reponse, Automatiser certains processus"
+        }
+    },
+    "Surgical declarative knowledge ETV": {
+        "valeurs_moyennes": {
+            "QP": 1.23,
+            "QHS": 1.41,
+            "QHI": 1.44,
+            "ATT": 1.67
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": -1.5,
+                "complique/simple": 2.0,
+                "pas pratique/pratique": 0.95,
+                "fastidieux/efficace": 1.75,
+                "imprevisible/previsible": 1.25,
+                "confus/clair": 2.1,
+                "incontrolable/maitrisable": 2.1
+            },
+            "QHS": {
+                "conventionnel/original": 2.1,
+                "sans imagination/creatif": 1.5,
+                "prudent/audacieux": 0.8,
+                "conservateur/novateur": 2.2,
+                "ennuyeux/captivant": -0.9,
+                "peu exigeant/challenging": 2.0,
+                "commun/nouveau": 2.1
+            },
+            "QHI": {
+                "m'isole/me sociabilise": 0.8,
+                "amateur/professionel": 2.5,
+                "de mauvais gout/de bon gout": 1.5,
+                "bas de gamme/haut de gamme": 1.5,
+                "m'exclut/m'integre": 0.8,
+                "me depare des autres/me rapproche des autre": 0.8,
+                "non presentable/presentable": 2.1
+            },
+            "ATT": {
+                "deplaisant/plaisant": 2.0,
+                "laid/beau": 0.0,
+                "desagreable/agreable": 2.05,
+                "rebutant/attirant": 2.05,
+                "mauvais/bon": 2.05,
+                "repoussant/attrayant": 1.75,
+                "decourageant/motivant": 1.805
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": 1.425,
+            "moyenne pragmatique": 1.23,
+            "statut": "oriente tache",
+            "intervalle confiance": null
+        },
+        "valeurs_generales": {
+            "marge d'erreur": null,
+            "echantillon": null
+        },
+        "probleme": {
+            "Esthetisme": "Choix des couleurs, Disposition des elements",
+            "Clarte": "Ontologie standardisee, Semantique standardisee"
+        }
+    },
+    "test": {
+        "valeurs_moyennes": {
+            "QP": null,
+            "QHS": null,
+            "QHI": null,
+            "ATT": null
+        },
+        "paire_de_mots": {
+            "QP": {
+                "technique/humain": null,
+                "complique/simple": null,
+                "pas pratique/pratique": null,
+                "fastidieux/efficace": null,
+                "imprevisible/previsible": null,
+                "confus/clair": null,
+                "incontrolable/maitrisable": null
+            },
+            "QHS": {
+                "conventionnel/original": null,
+                "sans imagination/creatif": null,
+                "prudent/audacieux": null,
+                "conservateur/novateur": null,
+                "ennuyeux/captivant": null,
+                "peu exigeant/challenging": null,
+                "commun/nouveau": null
+            },
+            "QHI": {
+                "m'isole/me sociabilise": null,
+                "amateur/professionel": null,
+                "de mauvais gout/de bon gout": null,
+                "bas de gamme/haut de gamme": null,
+                "m'exclut/m'integre": null,
+                "me depare des autres/me rapproche des autre": null,
+                "non presentable/presentable": null
+            },
+            "ATT": {
+                "deplaisant/plaisant": null,
+                "laid/beau": null,
+                "desagreable/agreable": null,
+                "rebutant/attirant": null,
+                "mauvais/bon": null,
+                "repoussant/attrayant": null,
+                "decourageant/motivant": null
+            }
+        },
+        "portfolio": {
+            "moyenne hedonique": null,
+            "moyenne pragmatique": null,
+            "statut": null,
+            "intervalle confiance": null
+        },
+        "valeurs_generales": {
+            "marge d'erreur": null,
+            "echantillon": null
+        },
+        "probleme": {}
+    }
+}
