@@ -33,6 +33,3 @@ Python, scikit-learn, NumPy, Flask, HTML/CSS (Bootstrap)
 ├── tests_moins_un/         # Tests en retirant un questionnaire du jeu d'entraînement
 └── questionnaires/         # Jeu de données AttrakDiff (JSON) et questionnaires de test
 ```
-
-
-📄 [Lire le rapport](rapport/Projet_de_Bachelor.pdf)
